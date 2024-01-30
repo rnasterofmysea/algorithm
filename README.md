@@ -604,3 +604,10 @@ while True:
         parent = current
         current = current.right
 ```
+
+
+## 순열 & 조합
+
+![image](https://github.com/rnasterofmysea/algorithm/assets/81907470/d2996e22-2119-4eb5-8905-47e79442983a)
+
+![image](https://github.com/rnasterofmysea/algorithm/assets/81907470/d913c7b1-25e8-4e59-9fb0-9bad1f6b7c9c)
